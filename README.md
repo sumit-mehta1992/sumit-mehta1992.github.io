@@ -1,4 +1,4 @@
-# academic
+# Sumit Mehta
 
 ### A Jekyll theme for academia
 
