@@ -3,7 +3,7 @@
 title: "Sumit Mehta"
 ---
 
-[sm.mehta1992@gmail.com]([sm.mehta1992@gmail.com](https://github.com/sumit-mehta1992/sumit-mehta1992.github.io/edit/main/contact.md))  
+[sm.mehta1992@gmail.com](sm.mehta1992@gmail.com](https://github.com/sumit-mehta1992/sumit-mehta1992.github.io/edit/main/contact.md)  
 
 ![Academic Screenshot](twitter_pic.jpg)
 
