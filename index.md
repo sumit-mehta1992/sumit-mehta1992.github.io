@@ -1,6 +1,6 @@
 ---
 #layout: home
-title: "Sumit Mehta"
+Title: "Sumit Mehta"
 ---
 
 [sm.mehta1992@gmail.com](sm.mehta1992@gmail.com)  
