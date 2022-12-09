@@ -2,7 +2,7 @@
 layout: home
 title: "Sumit Mehta"
 ---
-[Contact](sm.mehta1992@gmail.com)
+[sm.mehta1992@gmail.com](sm.mehta1992@gmail.com)
 
 ![Academic Screenshot](twitter_pic.jpg)
 
