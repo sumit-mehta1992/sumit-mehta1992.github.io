@@ -1,6 +1,6 @@
 ---
-#layout: home
-#title: "Sumit Mehta"
+layout: home
+title: "Sumit Mehta"
 ---
 sm.mehta1992@gmail.com
 
