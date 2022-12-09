@@ -1,6 +1,6 @@
 # Sumit Mehta
 
-### A Jekyll theme for academia
+### sm.mehta1992@gmail.com
 
 ![Academic Screenshot](https://raw.githubusercontent.com/LeNPaul/academic/gh-pages/screenshot.png)
 
