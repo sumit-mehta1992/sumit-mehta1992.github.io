@@ -2,7 +2,7 @@
 layout: home
 title: "Sumit Mehta"
 ---
-[sm.mehta1992@gmail.com](sm.mehta1992@gmail.com)                          [CV](https://github.com/sumit-mehta1992/sumit-mehta1992.github.io/blob/main/Sumit_Mehta_CV)
+[sm.mehta1992@gmail.com](sm.mehta1992@gmail.com)  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ![Academic Screenshot](twitter_pic.jpg)
 
