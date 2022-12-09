@@ -1,8 +1,7 @@
 ---
-layout: home
+#layout: home
 title: "Sumit Mehta"
 ---
-[Sumit Mehta]
 [sm.mehta1992@gmail.com](sm.mehta1992@gmail.com)  
 
 ![Academic Screenshot](twitter_pic.jpg)
