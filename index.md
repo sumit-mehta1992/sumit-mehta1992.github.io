@@ -4,7 +4,6 @@ title: "Sumit Mehta"
 ---
 sm.mehta1992@gmail.com
 
-#![Academic Screenshot](https://raw.githubusercontent.com/LeNPaul/academic/gh-pages/screenshot.png)
 [Academic Screenshot](https://github.com/sumit-mehta1992/sumit-mehta1992.github.io/blob/main/twitter_pic.jpg)
 
 I am currently working on Continuum Mechanics, Applied Mathematics, Soft biological tissues, Non-linear elasticity, Bifurcation Analysis.
