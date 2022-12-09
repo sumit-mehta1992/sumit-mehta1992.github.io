@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Sumit Mehta"
+title: "academics"
 ---
 sm.mehta1992@gmail.com
 
