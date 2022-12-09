@@ -7,6 +7,7 @@ title: "Sumit Mehta"
 
 ![Academic Screenshot](twitter_pic.jpg)
 
+#[CV](https://github.com/sumit-mehta1992/sumit-mehta1992.github.io/blob/main/Sumit_Mehta_CV.pdf)
 [CV](https://github.com/sumit-mehta1992/sumit-mehta1992.github.io/blob/main/Sumit_Mehta_CV.pdf)
 
 I am currently working on Continuum Mechanics, Applied Mathematics, Soft biological tissues, Non-linear elasticity, Bifurcation Analysis.
